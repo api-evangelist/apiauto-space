@@ -1,0 +1,26 @@
+aid: apiauto-space
+name: apiauto.space
+description: 'apiauto.space is a company surfaced via the API Evangelist harvest backlog (source: new-submission)
+  and added to the network as a stub for full-pipeline profiling.'
+url: https://artifacts.apis.io/apiauto-space/apis.yml
+x-type: company
+x-source: harvest:new-submission
+x-tier: stub
+x-tier-reason: harvest
+specificationVersion: '0.20'
+created: '2026-11-05'
+modified: '2026-11-05'
+tags:
+- Company
+apis: []
+maintainers:
+- FN: Kin Lane
+  email: kin@apievangelist.com
+- FN: APIs.json
+  email: info@apis.io
+common:
+- type: Website
+  url: https://apiauto.space/en/
+- type: Documentation
+  url: https://apiauto.space/en/docs/
+x-submitted-by: arutlifechange@gmail.com (apisio-add-form, 2026-11-04)
